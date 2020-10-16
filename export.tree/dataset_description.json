@@ -1,0 +1,16 @@
+{
+    "Name": "changepoint fmri",
+    "BIDSVersion": "1.1.1",
+    "Authors": [
+        "Chang-Hao Kao",
+        "Sangil Lee",
+        "Joshua I. Gold",
+        "Joseph W. Kable"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1101/2020.05.11.089094",
+        "Chang-Hao Kao, Sangil Lee, Joshua I. Gold, Joseph W. Kable. Distinct neural encoding of context-dependent error signals and context-dependent changes in behavior during adaptive learning. bioRxiv 2020.05.11.089094."
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003170.v1.0.0",
+    "License": "CC0"
+}
