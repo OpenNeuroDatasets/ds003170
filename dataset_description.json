@@ -8,9 +8,8 @@
         "Joseph W. Kable"
     ],
     "ReferencesAndLinks": [
-        "https://doi.org/10.1101/2020.05.11.089094",
-        "Chang-Hao Kao, Sangil Lee, Joshua I. Gold, Joseph W. Kable. Distinct neural encoding of context-dependent error signals and context-dependent changes in behavior during adaptive learning. bioRxiv 2020.05.11.089094.",
-        "Code and behavioral data can be found at https://github.com/changhaokao/mvpa_changepoint_fmri."
+        "Code and behavioral data can be found at https://github.com/changhaokao/mvpa_changepoint_fmri.",
+        "Kao, C. H., Lee, S., Gold, J. I., & Kable, J. W. (2020). Neural encoding of task-dependent errors during adaptive learning. bioRxiv. https://doi.org/10.1101/2020.05.11.089094."
     ],
     "License": "CC0"
 }
